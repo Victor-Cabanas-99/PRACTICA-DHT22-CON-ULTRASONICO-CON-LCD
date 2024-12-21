@@ -1,7 +1,7 @@
 # PRACTICA-DHT22-CON-ULTRASONICO-CON-LCD
 ## INTRODUCCION 
 ### Descripcion 
-Se realizara una medición con un sensor ULTRASONICO donde se mostrara la distancia en una pantalla LCD 
+Se realizara una medición con un sensor ULTRASONICO y DHT 22 donde se mostrara la distancia, temperatura y humedad en una pantalla LCD 
 La Esp32 es una tarjeta de adquisición de datos, paralo cual en esta practica ocuparemos un sensor (DTH11) con una pantalla LCD216 para adquirir datos de temperatura y humedad del entorno cada segundo y mostrarlar los datos en la panatlla, se usara un simulador llamado WOKWI.
 ## MATERIAL A UTILIZAR
 - [WOKWI](https://wokwi.com/projects/new/esp32)
