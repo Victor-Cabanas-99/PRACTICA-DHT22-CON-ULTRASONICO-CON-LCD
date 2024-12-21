@@ -118,5 +118,5 @@ Cuando haya funcionado, verás los valores dentro del monitor serial como se mue
 2. **DHT sensor library for ESPx**
 
 ### Desarrollado por 
-VICTOR EMANUEL CABAÑAS MONTES
+[VICTOR EMANUEL CABAÑAS MONTES](https://github.com/Victor-Cabanas-99)
 
