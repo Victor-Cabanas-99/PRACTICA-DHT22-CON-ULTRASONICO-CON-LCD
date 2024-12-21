@@ -92,11 +92,11 @@ lcd.clear();
 ```
 2. Instalar la libreria de **LiquidCrystal I2C** y  **DHT sensor library for ESPx** como se muestra en la siguente imagen.
 
-![]()
+![](https://github.com/Victor-Cabanas-99/PRACTICA-DHT22-CON-ULTRASONICO-CON-LCD/blob/main/SENSOR%20ULTRASONICO%20CON%20DHT22%20Y%20LCD%20LIBRERIA.PNG?raw=true)
 
 3. Hacer la conexion de **LCD 16X2 2IC**, la **HC-SR04 ULTRASONIC DISTANCE SENSOR** y el **DHT sensor library for ESPx** con la **ESP32** como se muestra en la siguente imagen.
 
-![]()
+![](https://github.com/Victor-Cabanas-99/PRACTICA-DHT22-CON-ULTRASONICO-CON-LCD/blob/main/SENSOR%20ULTRASONICO%20CON%20DHT22%20Y%20LCD%20CONEXCION.PNG?raw=true)
 
 ### Instrucciónes de operación
 
@@ -108,8 +108,10 @@ lcd.clear();
 ## Resultados
 
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
-![]()
-
+![](https://github.com/Victor-Cabanas-99/PRACTICA-DHT22-CON-ULTRASONICO-CON-LCD/blob/main/SENSOR%20ULTRASONICO%20CON%20DHT22%20Y%20LCD%20RESULTADO%201.PNG?raw=true)
+![](https://github.com/Victor-Cabanas-99/PRACTICA-DHT22-CON-ULTRASONICO-CON-LCD/blob/main/SENSOR%20ULTRASONICO%20CON%20DHT22%20Y%20LCD%20RESULTADO%202.PNG?raw=true)
+![](https://github.com/Victor-Cabanas-99/PRACTICA-DHT22-CON-ULTRASONICO-CON-LCD/blob/main/SENSOR%20ULTRASONICO%20CON%20DHT22%20Y%20LCD%20RESULTADO%203.PNG?raw=true)
+![](https://github.com/Victor-Cabanas-99/PRACTICA-DHT22-CON-ULTRASONICO-CON-LCD/blob/main/SENSOR%20ULTRASONICO%20CON%20DHT22%20Y%20LCD%20RESULTADO%204.PNG?raw=true)
 ## Librerías
 
 1. **LiquidCrystal I2C**
